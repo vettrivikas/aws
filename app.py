@@ -1,5 +1,4 @@
 from flask import Flask, render_template, request
-
 import os
 
 # Automatically set the template folder to the "templates" directory in the current folder
